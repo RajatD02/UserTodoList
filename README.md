@@ -1,2 +1,2 @@
 # UserTodoList
-Todo list website to keep track of users tasks
+Todo list to keep track of users tasks
